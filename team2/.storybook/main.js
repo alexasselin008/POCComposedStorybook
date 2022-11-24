@@ -13,5 +13,6 @@ module.exports = {
   },
   features: {
     interactionsDebugger: true,
+    buildStoriesJson: true, // 👈 Enable this to build the stories.json file
   },
 };
