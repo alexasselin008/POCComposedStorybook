@@ -1,0 +1,11 @@
+{
+  "name": "poccomposedstoryboo",
+  "version": "0.1.0",
+  "description": "POC to create a composed storybook for our teams",
+  "private": true,
+  "scripts": {
+    "start-storybook-team1": "cd team1 && yarn storybook",
+    "start-storybook-team2": "cd team2 && yarn storybook",
+    "start-storybook-host": "cd host && yarn storybook"
+  }
+}
