@@ -10,3 +10,5 @@ Multiple storybook composed into a single one. POC in order to create a single s
 - [ ] Test the hosted version of the storybook composition
 - [ ] Test features like dark mode toggle and theming 
 - [ ] Are all of our addons working in a composed environement?
+- [ ] Setup in NextJs 12 with storybook 6 - With working svgr loader
+- [ ] Setup in CRA5 with Craco with storybook 6- With working svgr loader
