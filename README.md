@@ -1,4 +1,4 @@
-# POCComposedStorybook
+# poc-composed-storybooks
 Multiple storybook composed into a single one. POC in order to create a single storybook hosting all the teams components
 
 # What needs to be tested in this POC
