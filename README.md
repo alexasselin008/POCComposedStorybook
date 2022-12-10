@@ -3,7 +3,7 @@ Multiple storybook composed into a single one. POC in order to create a single s
 
 # What needs to be tested in this POC
 
-- [x] Create 2 storybooks reprenting individual teams
+- [x] Create 2 storybooks representing individual teams
 - [x] Create a single storybook hosting all the teams components
 - [x] Test the local version of the storybook composition
 - [ ] Test the hybrid version of the storybook composition with the design system embedded 
